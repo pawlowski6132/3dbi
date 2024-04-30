@@ -1,0 +1,10 @@
+.header {
+    background-color: #ffcc00;
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    display:inline;
+    margin-right: 10px
+}

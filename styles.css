@@ -8,3 +8,28 @@ li {
     display:inline;
     margin-right: 10px
 }
+
+.image_container {
+    display: flex; 
+    justify-content: center;
+}
+
+.image {
+    padding-top: 50px;
+  }
+
+.pdf_container {
+    display: flex;
+    justify-content: center;
+}
+
+.pdf_iframe {
+    padding-top: 50px;
+    width: 75%;
+    height: 900px;
+
+}
+
+.selected-large-text {
+    font-size: 24px; /* Adjust this value as needed */
+  }

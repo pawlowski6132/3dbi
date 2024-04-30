@@ -26,7 +26,11 @@ https://dscusaemcestorageprd.z13.web.core.windows.net/3dbi/index.html
 
 ![](journal_assets/local_storage.JPG)
 
-----------------------------------
+7. Link to original training
+   ````
+   https://kg-dev.be/2021/08/16/how-to-custom-3d-power-bi-visual-of-a-warehouse/
+   https://kg-dev.be/project/3dbi-for-sketchup/
+   ````
 
 Next I need to layout all the pages, finish the documents, convert to PDF, upload etc.
 
